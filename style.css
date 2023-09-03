@@ -1,6 +1,9 @@
 :root{
     background-color: white;
 }
+h3{
+    font-size: 35px;
+}
 #main{
     width:98%;
     display: flex;
